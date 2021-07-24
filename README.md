@@ -15,12 +15,11 @@ It doesn't include anything related to database, it is just a HTML, CSS template
  </p>
 
   <p align="center">
-    And that's how it looks🤩
  </p>
  <p align="center">
   </p>
  <p align="center">
- Saw all the other pages?🧐 Go check it out now!🥳 
+ Wanna see all the pages?🧐 Go check it out now!🥳 
   https://github.com/jyotisarpal181314/STYLE-YOUR-WAY-WEBSITE
  
 </p>
