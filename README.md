@@ -1,2 +1,26 @@
 # STYLE-YOUR-WAY-WEBSITE
-Using HTML and CSS I created E-Commerce website, featuring categories images and products with the product price, image, and rating. Along with products, and one offer section with some exclusive products.
+<h1 align = "center">STYLE YOUR WAY WEBSITE🛒</h1>
+
+
+<p align="center">Refresh Your Wardrobe!🛍️ 
+ <p align="center">
+With a passion for fashion here's my very own custom website relating to it.💃
+ </p>
+ 
+ 
+ <p align="center">
+ The template is for the Online Clothing Fashion which includes trending wardrobe collection. The website is made from scratch 🥳 and doesn't include any readymade code.
+It doesn't include anything related to database, it is just a HTML, CSS template. Though you can find some familiar images used in the website taken from various sources, but the purpose is to only make it more beautiful.🖤
+
+ </p>
+
+  <p align="center">
+    And that's how it looks🤩
+ </p>
+ <p align="center">
+  </p>
+ <p align="center">
+ Saw all the other pages?🧐 Go check it out now!🥳 
+  https://github.com/jyotisarpal181314/STYLE-YOUR-WAY-WEBSITE
+ 
+</p>
